@@ -1,0 +1,10 @@
+DEFAULTS:
+Z1,Active Recovery,0%
+Z2,Endurance,55%
+Z3,Tempo,75%
+Z4,Threshold,90%
+Z5,VO2Max,105%
+Z6,Anaerobic,120%
+Z7,Neuromuscular,150%
+
+1900/01/01: CP=332
