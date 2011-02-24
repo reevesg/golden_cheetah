@@ -1,0 +1,15 @@
+<!DOCTYPE GoldenCheetah>
+<ride>
+	<attributes>
+		<attribute key="Start time" value="2011/02/19 16:35:11 UTC"/>
+		<attribute key="Device type" value="Manual CSV"/>
+	</attributes>
+	<override>
+		<metric value="68" name="daniels_points"/>
+		<metric value="126" name="skiba_bike_score"/>
+		<metric value="0" name="workout_time"/>
+		<metric value="0" name="time_riding"/>
+		<metric value="80.4672" name="total_distance"/>
+		<metric value="160" name="average_hr"/>
+	</override>
+</ride>
