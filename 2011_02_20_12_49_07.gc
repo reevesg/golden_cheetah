@@ -7,8 +7,8 @@
     <override/>
     <tags>
         <tag value="Gareth" name="Athlete"/>
-        <tag value="Changes on Sun Feb 20 19:38:56 2011:&#xa;Clear cells&#xa;Delete Rows&#xa;" name="Change History"/>
-        <tag value="/Users/greeves/Library/GoldenCheetah/Gareth/2011_02_20_12_49_07.csv" name="Filename"/>
+        <tag value="Changes on Sun Feb 20 19:38:56 2011:&#xa;Clear cells&#xa;Delete Rows&#xa;Changes on Wed Mar 2 22:49:44 2011:&#xa;" name="Change History"/>
+        <tag value="/Users/greeves/Library/GoldenCheetah/Gareth/2011_02_20_12_49_07.gc" name="Filename"/>
     </tags>
     <intervals>
         <interval stop="22425.2" name="0" start="0"/>
@@ -24,6 +24,16 @@
         <interval stop="23266.8" name="10" start="23147.1"/>
         <interval stop="23327.2" name="11" start="23266.8"/>
         <interval stop="24438.6" name="12" start="23327.2"/>
+        <interval stop="22732.5" name="Peak 5s (482 watts)" start="22727.5"/>
+        <interval stop="22966.9" name="Peak 10s (468 watts)" start="22956.8"/>
+        <interval stop="22966.9" name="Peak 20s (462 watts)" start="22946.7"/>
+        <interval stop="22966.9" name="Peak 30s (455 watts)" start="22936.6"/>
+        <interval stop="22966.9" name="Peak 1min (441 watts)" start="22906.4"/>
+        <interval stop="22485.7" name="Peak 2min (324 watts)" start="22364.7"/>
+        <interval stop="22485.7" name="Peak 5min (287 watts)" start="22184.6"/>
+        <interval stop="22788" name="Peak 10min (274 watts)" start="22187.1"/>
+        <interval stop="23327.2" name="Peak 20min (262 watts)" start="22126.6"/>
+        <interval stop="24156.3" name="Peak 30min (255 watts)" start="22355.9"/>
     </intervals>
     <samples>
         <sample cad="-1" watts="0" secs="227.277" km="0.195" hr="-1" kph="22.991" len="1.26" nm="-1"/>

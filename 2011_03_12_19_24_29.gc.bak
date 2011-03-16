@@ -1,0 +1,20 @@
+<!DOCTYPE GoldenCheetah>
+<ride>
+    <attributes>
+        <attribute key="Start time" value="2011/03/13 01:24:29 UTC"/>
+        <attribute key="Device type" value="Manual CSV"/>
+    </attributes>
+    <override>
+        <metric value="0" name="average_hr"/>
+        <metric value="0" name="daniels_points"/>
+        <metric value="180" name="skiba_bike_score"/>
+        <metric value="0" name="time_riding"/>
+        <metric value="0" name="total_distance"/>
+        <metric value="0" name="workout_time"/>
+    </override>
+    <tags>
+        <tag value="Gareth" name="Athlete"/>
+        <tag value="Changes on Sun Mar 13 13:45:02 2011:&#xa;" name="Change History"/>
+        <tag value="/Users/greeves/Library/GoldenCheetah/Gareth/2011_03_12_19_24_29.gc" name="Filename"/>
+    </tags>
+</ride>
