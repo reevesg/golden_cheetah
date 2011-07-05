@@ -1,0 +1,13 @@
+<!DOCTYPE GoldenCheetah>
+<ride>
+    <attributes>
+        <attribute key="Start time" value="2011/07/05 17:53:20 UTC"/>
+        <attribute key="Device type" value="Unknown Garmin Device 1169"/>
+    </attributes>
+    <override/>
+    <tags/>
+    <samples>
+        <sample secs="0" alt="200.6" lon="-88.061578399" lat="41.874375167" len="1"/>
+        <sample secs="1" alt="200.6" lon="-88.061579488" lat="41.874380532" len="1"/>
+    </samples>
+</ride>
