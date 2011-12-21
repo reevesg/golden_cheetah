@@ -1,0 +1,125 @@
+<layout name="analysis" style="2">
+	<chart id="16" name="Summary Window" title="Summary" >
+		<property name="instanceName" type="QString" value="Summary Window" />
+		<property name="title" type="QString" value="Summary" />
+		<property name="subtitle" type="QString" value="Sunday October 23, 2011, 2:14 PM" />
+		<property name="widthFactor" type="double" value="1" />
+		<property name="heightFactor" type="double" value="2" />
+		<property name="resizable" type="bool" value="1" />
+	</chart>
+	<chart id="6" name="Histogram Window" title="Power" >
+		<property name="instanceName" type="QString" value="Histogram Window" />
+		<property name="title" type="QString" value="Power" />
+		<property name="subtitle" type="QString" value="" />
+		<property name="widthFactor" type="double" value="3.61152" />
+		<property name="heightFactor" type="double" value="4" />
+		<property name="resizable" type="bool" value="1" />
+		<property name="series" type="int" value="0" />
+		<property name="percent" type="int" value="0" />
+		<property name="bin" type="double" value="5" />
+		<property name="logY" type="bool" value="0" />
+		<property name="zeroes" type="bool" value="0" />
+		<property name="shade" type="bool" value="0" />
+		<property name="zoned" type="bool" value="0" />
+		<property name="scope" type="bool" value="0" />
+	</chart>
+	<chart id="6" name="Histogram Window" title="Heartrate" >
+		<property name="instanceName" type="QString" value="Histogram Window" />
+		<property name="title" type="QString" value="Heartrate" />
+		<property name="subtitle" type="QString" value="" />
+		<property name="widthFactor" type="double" value="3.55947" />
+		<property name="heightFactor" type="double" value="4" />
+		<property name="resizable" type="bool" value="1" />
+		<property name="series" type="int" value="1" />
+		<property name="percent" type="int" value="0" />
+		<property name="bin" type="double" value="2" />
+		<property name="logY" type="bool" value="0" />
+		<property name="zeroes" type="bool" value="0" />
+		<property name="shade" type="bool" value="0" />
+		<property name="zoned" type="bool" value="0" />
+		<property name="scope" type="bool" value="0" />
+	</chart>
+	<chart id="5" name="Google Map" title="Map" >
+		<property name="instanceName" type="QString" value="Google Map" />
+		<property name="title" type="QString" value="Map" />
+		<property name="subtitle" type="QString" value="Route" />
+		<property name="widthFactor" type="double" value="3.125" />
+		<property name="heightFactor" type="double" value="3.57143" />
+		<property name="resizable" type="bool" value="1" />
+	</chart>
+	<chart id="6" name="Histogram Window" title="Speed" >
+		<property name="instanceName" type="QString" value="Histogram Window" />
+		<property name="title" type="QString" value="Speed" />
+		<property name="subtitle" type="QString" value="" />
+		<property name="widthFactor" type="double" value="3.61395" />
+		<property name="heightFactor" type="double" value="4" />
+		<property name="resizable" type="bool" value="1" />
+		<property name="series" type="int" value="2" />
+		<property name="percent" type="int" value="0" />
+		<property name="bin" type="double" value="7" />
+		<property name="logY" type="bool" value="0" />
+		<property name="zeroes" type="bool" value="0" />
+		<property name="shade" type="bool" value="0" />
+		<property name="zoned" type="bool" value="0" />
+		<property name="scope" type="bool" value="0" />
+	</chart>
+	<chart id="6" name="Histogram Window" title="Cadence" >
+		<property name="instanceName" type="QString" value="Histogram Window" />
+		<property name="title" type="QString" value="Cadence" />
+		<property name="subtitle" type="QString" value="" />
+		<property name="widthFactor" type="double" value="3.55947" />
+		<property name="heightFactor" type="double" value="4" />
+		<property name="resizable" type="bool" value="1" />
+		<property name="series" type="int" value="3" />
+		<property name="percent" type="int" value="0" />
+		<property name="bin" type="double" value="5" />
+		<property name="logY" type="bool" value="0" />
+		<property name="zeroes" type="bool" value="0" />
+		<property name="shade" type="bool" value="0" />
+		<property name="zoned" type="bool" value="0" />
+		<property name="scope" type="bool" value="0" />
+	</chart>
+	<chart id="2" name="Ride Plot Window" title="Ride" >
+		<property name="instanceName" type="QString" value="Ride Plot Window" />
+		<property name="title" type="QString" value="Ride" />
+		<property name="subtitle" type="QString" value="" />
+		<property name="widthFactor" type="double" value="1" />
+		<property name="heightFactor" type="double" value="1" />
+		<property name="resizable" type="bool" value="1" />
+		<property name="stacked" type="bool" value="0" />
+		<property name="showGrid" type="int" value="0" />
+		<property name="showFull" type="int" value="2" />
+		<property name="showHr" type="int" value="2" />
+		<property name="showSpeed" type="int" value="2" />
+		<property name="showCad" type="int" value="0" />
+		<property name="showAlt" type="int" value="2" />
+		<property name="showPower" type="int" value="0" />
+		<property name="byDistance" type="int" value="0" />
+		<property name="smoothing" type="int" value="1" />
+		<property name="paintBrush" type="int" value="1" />
+	</chart>
+	<chart id="3" name="Critical Power Window" title="CP" >
+		<property name="instanceName" type="QString" value="Critical Power Window" />
+		<property name="title" type="QString" value="CP" />
+		<property name="subtitle" type="QString" value="" />
+		<property name="widthFactor" type="double" value="2" />
+		<property name="heightFactor" type="double" value="2" />
+		<property name="resizable" type="bool" value="1" />
+		<property name="season" type="int" value="0" />
+		<property name="mode" type="int" value="0" />
+	</chart>
+	<chart id="10" name="Pf/Pv Window" title="QA" >
+		<property name="instanceName" type="QString" value="Pf/Pv Window" />
+		<property name="title" type="QString" value="QA" />
+		<property name="subtitle" type="QString" value="" />
+		<property name="widthFactor" type="double" value="2" />
+		<property name="heightFactor" type="double" value="2" />
+		<property name="resizable" type="bool" value="1" />
+		<property name="watts" type="QString" value="332" />
+		<property name="rpm" type="QString" value="0" />
+		<property name="crank" type="QString" value="0.1725" />
+		<property name="shade" type="bool" value="1" />
+		<property name="merge" type="bool" value="0" />
+		<property name="frame" type="bool" value="1" />
+	</chart>
+</layout>
