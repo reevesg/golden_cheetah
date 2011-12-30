@@ -6,12 +6,14 @@
 		"IDENTIFIER":"",
 		"TAGS":{
 			"Athlete":"Gareth",
-			"Calendar Text":"",
-			"Data":"TDSPHC-AG-E",
+			"Calendar Text":"\n\nbig ferm with matt howley\n\n",
+			"Change History":"Changes on Thu Dec 29 18:41:06 2011:\n",
+			"Data":"TDSP-C-AG-E",
 			"Device":"Garmin Edge 800",
-			"Filename":"\/Users\/greeves\/Library\/GoldenCheetah-v3\/Gareth\/2011_12_26_12_52_40.fit",
+			"Filename":"\/Users\/greeves\/Library\/GoldenCheetah-v3\/Gareth\/2011_12_28_12_41_07.json",
 			"Month":"December",
-			"Weekday":"Mon",
+			"Notes":"big ferm with matt howley\n",
+			"Weekday":"Wed",
 			"Year":"2011"
 		},
 		"SAMPLES":[

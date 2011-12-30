@@ -2,7 +2,7 @@
 	<chart id="16" name="Summary Window" title="Summary" >
 		<property name="instanceName" type="QString" value="Summary Window" />
 		<property name="title" type="QString" value="Summary" />
-		<property name="subtitle" type="QString" value="Saturday December 24, 2011, 9:59 AM" />
+		<property name="subtitle" type="QString" value="Wednesday December 28, 2011, 12:41 PM" />
 		<property name="widthFactor" type="double" value="1" />
 		<property name="heightFactor" type="double" value="2" />
 		<property name="resizable" type="bool" value="0" />
@@ -115,8 +115,8 @@
 		<property name="widthFactor" type="double" value="2" />
 		<property name="heightFactor" type="double" value="2" />
 		<property name="resizable" type="bool" value="0" />
-		<property name="watts" type="QString" value="235" />
-		<property name="rpm" type="QString" value="80" />
+		<property name="watts" type="QString" value="332" />
+		<property name="rpm" type="QString" value="91" />
 		<property name="crank" type="QString" value="0.1725" />
 		<property name="shade" type="bool" value="1" />
 		<property name="merge" type="bool" value="0" />
