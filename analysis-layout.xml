@@ -2,7 +2,7 @@
 	<chart id="16" name="Summary Window" title="Summary" >
 		<property name="instanceName" type="QString" value="Summary Window" />
 		<property name="title" type="QString" value="Summary" />
-		<property name="subtitle" type="QString" value="Wednesday January 4, 2012, 5:20 AM" />
+		<property name="subtitle" type="QString" value="Monday January 2, 2012, 4:04 PM" />
 		<property name="widthFactor" type="double" value="1" />
 		<property name="heightFactor" type="double" value="2" />
 		<property name="resizable" type="bool" value="0" />
@@ -90,8 +90,8 @@
 		<property name="showGrid" type="int" value="2" />
 		<property name="showFull" type="int" value="2" />
 		<property name="showHr" type="int" value="2" />
-		<property name="showSpeed" type="int" value="2" />
-		<property name="showCad" type="int" value="2" />
+		<property name="showSpeed" type="int" value="0" />
+		<property name="showCad" type="int" value="0" />
 		<property name="showAlt" type="int" value="2" />
 		<property name="showPower" type="int" value="1" />
 		<property name="byDistance" type="int" value="0" />
