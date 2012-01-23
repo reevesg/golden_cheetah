@@ -1,16 +1,4 @@
 <layout name="train" style="2">
-	<chart id="22" name="Dial" title="Elapsed Time" >
-		<property name="instanceName" type="QString" value="Dial" />
-		<property name="title" type="QString" value="Elapsed Time" />
-		<property name="subtitle" type="QString" value="" />
-		<property name="widthFactor" type="double" value="5.55556" />
-		<property name="heightFactor" type="double" value="8.33333" />
-		<property name="resizable" type="bool" value="1" />
-		<property name="showInstant" type="bool" value="0" />
-		<property name="avgType" type="int" value="0" />
-		<property name="dataSeries" type="int" value="1" />
-		<property name="style" type="int" value="74687587" />
-	</chart>
 	<chart id="22" name="Dial" title="Power" >
 		<property name="instanceName" type="QString" value="Dial" />
 		<property name="title" type="QString" value="Power" />
@@ -35,18 +23,6 @@
 		<property name="dataSeries" type="int" value="9" />
 		<property name="style" type="int" value="102812386" />
 	</chart>
-	<chart id="22" name="Dial" title="Heartrate" >
-		<property name="instanceName" type="QString" value="Dial" />
-		<property name="title" type="QString" value="Heartrate" />
-		<property name="subtitle" type="QString" value="" />
-		<property name="widthFactor" type="double" value="5" />
-		<property name="heightFactor" type="double" value="8.33333" />
-		<property name="resizable" type="bool" value="1" />
-		<property name="showInstant" type="bool" value="1" />
-		<property name="avgType" type="int" value="27263016" />
-		<property name="dataSeries" type="int" value="8" />
-		<property name="style" type="int" value="27263071" />
-	</chart>
 	<chart id="22" name="Dial" title="Cadence" >
 		<property name="instanceName" type="QString" value="Dial" />
 		<property name="title" type="QString" value="Cadence" />
@@ -59,20 +35,40 @@
 		<property name="dataSeries" type="int" value="7" />
 		<property name="style" type="int" value="0" />
 	</chart>
-	<chart id="25" name="RT Plot" title="Performance" >
-		<property name="instanceName" type="QString" value="RT Plot" />
-		<property name="title" type="QString" value="Performance" />
+	<chart id="22" name="Dial" title="Heartrate" >
+		<property name="instanceName" type="QString" value="Dial" />
+		<property name="title" type="QString" value="Heartrate" />
 		<property name="subtitle" type="QString" value="" />
-		<property name="widthFactor" type="double" value="1.66667" />
-		<property name="heightFactor" type="double" value="1.13636" />
+		<property name="widthFactor" type="double" value="5" />
+		<property name="heightFactor" type="double" value="8.33333" />
 		<property name="resizable" type="bool" value="1" />
+		<property name="showInstant" type="bool" value="1" />
+		<property name="avgType" type="int" value="27263016" />
+		<property name="dataSeries" type="int" value="8" />
+		<property name="style" type="int" value="27263071" />
 	</chart>
 	<chart id="24" name="RT Plot" title="Last 10 seconds" >
 		<property name="instanceName" type="QString" value="RT Plot" />
 		<property name="title" type="QString" value="Last 10 seconds" />
 		<property name="subtitle" type="QString" value="" />
-		<property name="widthFactor" type="double" value="2.63158" />
-		<property name="heightFactor" type="double" value="1.13636" />
+		<property name="widthFactor" type="double" value="2.27273" />
+		<property name="heightFactor" type="double" value="1.35135" />
+		<property name="resizable" type="bool" value="1" />
+	</chart>
+	<chart id="25" name="RT Plot" title="Performance" >
+		<property name="instanceName" type="QString" value="RT Plot" />
+		<property name="title" type="QString" value="Performance" />
+		<property name="subtitle" type="QString" value=" golden cheetah" />
+		<property name="widthFactor" type="double" value="1.78571" />
+		<property name="heightFactor" type="double" value="1.21951" />
+		<property name="resizable" type="bool" value="1" />
+	</chart>
+	<chart id="21" name="Video Window" title="Video Player" >
+		<property name="instanceName" type="QString" value="Video Window" />
+		<property name="title" type="QString" value="Video Player" />
+		<property name="subtitle" type="QString" value="" />
+		<property name="widthFactor" type="double" value="2.27273" />
+		<property name="heightFactor" type="double" value="1.16279" />
 		<property name="resizable" type="bool" value="1" />
 	</chart>
 </layout>
