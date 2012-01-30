@@ -50,17 +50,17 @@
 	<chart id="25" name="RT Plot" title="Workout" >
 		<property name="instanceName" type="QString" value="RT Plot" />
 		<property name="title" type="QString" value="Workout" />
-		<property name="subtitle" type="QString" value="golden cheetah" />
+		<property name="subtitle" type="QString" value="Start workout when words &quot;Fight Club&quot; appear on the screen (@ 1:16)" />
 		<property name="widthFactor" type="double" value="1.78571" />
-		<property name="heightFactor" type="double" value="1.21951" />
+		<property name="heightFactor" type="double" value="1.16279" />
 		<property name="resizable" type="bool" value="1" />
 	</chart>
 	<chart id="24" name="RT Plot" title="Last 10 seconds" >
 		<property name="instanceName" type="QString" value="RT Plot" />
 		<property name="title" type="QString" value="Last 10 seconds" />
 		<property name="subtitle" type="QString" value="" />
-		<property name="widthFactor" type="double" value="2.27273" />
-		<property name="heightFactor" type="double" value="1.21951" />
+		<property name="widthFactor" type="double" value="2.38095" />
+		<property name="heightFactor" type="double" value="1.19048" />
 		<property name="resizable" type="bool" value="1" />
 	</chart>
 	<chart id="21" name="Video Window" title="Video Player" >
