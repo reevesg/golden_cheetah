@@ -2,7 +2,7 @@
 	<chart id="16" name="Summary Window" title="Summary" >
 		<property name="instanceName" type="QString" value="Summary Window" />
 		<property name="title" type="QString" value="Summary" />
-		<property name="subtitle" type="QString" value="Wednesday February 22, 2012, 6:34 PM" />
+		<property name="subtitle" type="QString" value="Sunday February 26, 2012, 8:45 AM" />
 		<property name="widthFactor" type="double" value="1" />
 		<property name="heightFactor" type="double" value="2" />
 		<property name="resizable" type="bool" value="0" />
