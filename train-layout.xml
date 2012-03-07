@@ -50,7 +50,7 @@
 	<chart id="25" name="RT Plot" title="Workout" >
 		<property name="instanceName" type="QString" value="RT Plot" />
 		<property name="title" type="QString" value="Workout" />
-		<property name="subtitle" type="QString" value="golden cheetah" />
+		<property name="subtitle" type="QString" value=" golden cheetah" />
 		<property name="widthFactor" type="double" value="1.78571" />
 		<property name="heightFactor" type="double" value="1.16279" />
 		<property name="resizable" type="bool" value="1" />
