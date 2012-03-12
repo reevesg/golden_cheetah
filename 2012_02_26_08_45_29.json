@@ -7,10 +7,10 @@
 		"TAGS":{
 			"Athlete":"Gareth",
 			"Calendar Text":"",
-			"Change History":"Changes on Sun Feb 26 12:40:08 2012:\n",
+			"Change History":"Changes on Sun Feb 26 12:40:08 2012:\nChanges on Wed Mar 7 09:02:22 2012:\n",
 			"Data":"TDSPHC-AG-E",
 			"Device":"Garmin Edge 800",
-			"Filename":"\/Users\/reevesg\/Library\/GoldenCheetah-v3\/Gareth\/2012_02_26_08_45_29.fit",
+			"Filename":"\/Users\/greeves\/Library\/GoldenCheetah\/Gareth\/2012_02_26_08_45_29.json",
 			"Month":"February",
 			"Weekday":"Sun",
 			"Year":"2012"
@@ -18,7 +18,8 @@
 		"INTERVALS":[
 			{ "NAME":"1", "START": 1, "STOP": 3177 },
 			{ "NAME":"2", "START": 3177, "STOP": 12783 },
-			{ "NAME":"Selection #1 (335 watts)", "START": 3094, "STOP": 4017 }
+			{ "NAME":"Selection #1 (0 watts)", "START": -1, "STOP": -1 },
+			{ "NAME":"Selection #2 (336 watts)", "START": 3093, "STOP": 4012 }
 		],
 		"SAMPLES":[
 			{ "SECS":1, "KM":0.00025, "WATTS":200, "CAD":74, "KPH":0, "HR":134, "ALT":191.8, "LAT":41.849867404, "LON":-88.309078565 },

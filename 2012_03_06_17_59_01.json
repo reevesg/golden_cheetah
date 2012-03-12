@@ -6,15 +6,26 @@
 		"IDENTIFIER":"",
 		"TAGS":{
 			"Athlete":"Gareth",
-			"Calendar Text":"\n\n\n",
-			"Change History":"Changes on Wed Mar 7 06:36:07 2012:\n",
+			"Calendar Text":"",
+			"Change History":"Changes on Wed Mar 7 06:36:07 2012:\nChanges on Wed Mar 7 08:09:57 2012:\n",
 			"Data":"TDSPHC-----",
 			"Device":"PowerTap CSV",
-			"Filename":"\/Users\/reevesg\/Library\/GoldenCheetah-v3\/Gareth\/2001_01_05_17_59_01.csv",
-			"Month":"January",
-			"Weekday":"Fri",
-			"Year":"2001"
+			"Filename":"\/Users\/greeves\/Library\/GoldenCheetah\/Gareth\/2012_03_06_17_59_01.json",
+			"Month":"March",
+			"Weekday":"Tue",
+			"Year":"2012"
 		},
+		"INTERVALS":[
+			{ "NAME":"Selection #1 (362 watts)", "START": 910.662, "STOP": 1024.62 },
+			{ "NAME":"Selection #2 (363 watts)", "START": 1148.57, "STOP": 1268.53 },
+			{ "NAME":"Selection #3 (365 watts)", "START": 1392.48, "STOP": 1512.44 },
+			{ "NAME":"Selection #4 (361 watts)", "START": 1992.26, "STOP": 2114.21 },
+			{ "NAME":"Selection #5 (374 watts)", "START": 2233.16, "STOP": 2356.12 },
+			{ "NAME":"Selection #6 (359 watts)", "START": 2471.07, "STOP": 2591.03 },
+			{ "NAME":"Selection #7 (355 watts)", "START": 2891.92, "STOP": 3016.87 },
+			{ "NAME":"Selection #8 (353 watts)", "START": 3141.82, "STOP": 3263.77 },
+			{ "NAME":"Selection #9 (337 watts)", "START": 3379.73, "STOP": 3493.69 }
+		],
 		"SAMPLES":[
 			{ "SECS":1.009, "KM":0.000434, "WATTS":0, "CAD":0, "KPH":0, "HR":0 },
 			{ "SECS":2.008, "KM":0.000434, "WATTS":0, "CAD":0, "KPH":0, "HR":0 },
