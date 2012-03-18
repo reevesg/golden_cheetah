@@ -2,7 +2,7 @@
 	<chart id="16" name="Summary Window" title="Summary" >
 		<property name="instanceName" type="QString" value="Summary Window" />
 		<property name="title" type="QString" value="Summary" />
-		<property name="subtitle" type="QString" value="Saturday January 7, 2012, 1:26 PM" />
+		<property name="subtitle" type="QString" value="Sunday March 11, 2012, 3:24 PM" />
 		<property name="widthFactor" type="double" value="1" />
 		<property name="heightFactor" type="double" value="2" />
 		<property name="resizable" type="bool" value="0" />
@@ -87,7 +87,7 @@
 		<property name="heightFactor" type="double" value="2" />
 		<property name="resizable" type="bool" value="0" />
 		<property name="season" type="int" value="0" />
-		<property name="mode" type="int" value="3" />
+		<property name="mode" type="int" value="0" />
 	</chart>
 	<chart id="2" name="Ride Plot Window" title="Ride" >
 		<property name="instanceName" type="QString" value="Ride Plot Window" />
@@ -96,7 +96,7 @@
 		<property name="widthFactor" type="double" value="1" />
 		<property name="heightFactor" type="double" value="1" />
 		<property name="resizable" type="bool" value="0" />
-		<property name="stacked" type="bool" value="0" />
+		<property name="stacked" type="bool" value="1" />
 		<property name="showGrid" type="int" value="2" />
 		<property name="showFull" type="int" value="2" />
 		<property name="showHr" type="int" value="2" />
@@ -106,7 +106,7 @@
 		<property name="showPower" type="int" value="0" />
 		<property name="byDistance" type="int" value="0" />
 		<property name="smoothing" type="int" value="3" />
-		<property name="paintBrush" type="int" value="1" />
+		<property name="paintBrush" type="int" value="0" />
 	</chart>
 	<chart id="10" name="Pf/Pv Window" title="QA" >
 		<property name="instanceName" type="QString" value="Pf/Pv Window" />
