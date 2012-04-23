@@ -2,7 +2,7 @@
 	<chart id="16" name="Summary Window" title="Summary" >
 		<property name="instanceName" type="QString" value="Summary Window" />
 		<property name="title" type="QString" value="Summary" />
-		<property name="subtitle" type="QString" value="Sunday March 11, 2012, 3:24 PM" />
+		<property name="subtitle" type="QString" value="Tuesday April 17, 2012, 4:55 AM" />
 		<property name="widthFactor" type="double" value="1" />
 		<property name="heightFactor" type="double" value="2" />
 		<property name="resizable" type="bool" value="0" />
@@ -23,7 +23,7 @@
 		<property name="heightFactor" type="double" value="4" />
 		<property name="resizable" type="bool" value="0" />
 		<property name="series" type="int" value="2" />
-		<property name="percent" type="int" value="0" />
+		<property name="percent" type="int" value="1" />
 		<property name="bin" type="double" value="7" />
 		<property name="logY" type="bool" value="0" />
 		<property name="zeroes" type="bool" value="0" />
@@ -96,7 +96,7 @@
 		<property name="widthFactor" type="double" value="1" />
 		<property name="heightFactor" type="double" value="1" />
 		<property name="resizable" type="bool" value="0" />
-		<property name="stacked" type="bool" value="1" />
+		<property name="stacked" type="bool" value="0" />
 		<property name="showGrid" type="int" value="2" />
 		<property name="showFull" type="int" value="2" />
 		<property name="showHr" type="int" value="2" />
@@ -105,7 +105,7 @@
 		<property name="showAlt" type="int" value="0" />
 		<property name="showPower" type="int" value="0" />
 		<property name="byDistance" type="int" value="0" />
-		<property name="smoothing" type="int" value="3" />
+		<property name="smoothing" type="int" value="5" />
 		<property name="paintBrush" type="int" value="0" />
 	</chart>
 	<chart id="10" name="Pf/Pv Window" title="QA" >
@@ -116,7 +116,7 @@
 		<property name="heightFactor" type="double" value="2" />
 		<property name="resizable" type="bool" value="0" />
 		<property name="watts" type="QString" value="300" />
-		<property name="rpm" type="QString" value="94" />
+		<property name="rpm" type="QString" value="81" />
 		<property name="crank" type="QString" value="0.1725" />
 		<property name="shade" type="bool" value="1" />
 		<property name="merge" type="bool" value="0" />
